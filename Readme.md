@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/RangeDistributions/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/RangeDistributions/MainWindow.xaml))**
+<!-- default file list end -->
 # How to customize a Choropleth colorizer's range distribution
 
 
